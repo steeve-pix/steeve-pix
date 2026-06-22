@@ -1,36 +1,70 @@
-[![MasterHead](https://www.codedex.io/images/intermediate-python/intermediate-python.gif)](https://evently-site.vercel.app)
 <h1 align="center">Hi 👋, I'm Steeve</h1>
-<h3 align="center">A passionate backend developer from CANADA</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<h3 align="center">Backend & Systems Developer • Canada 🇨🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-sdn&label=Profile%20views&color=0e75b6&style=flat" alt="coding-sdn" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/steevemx98?logo=twitter&style=for-the-badge" alt="steeve" /></a> </p>
-
-- 🔭 I’m currently working on [CPP](https://github.com/steeve-pix/steeve-pix/new/main)
-
-- 🌱 I’m currently learning **Python**
-
-- ⚡ Fun fact **Gaming Fortnite**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steevemx98" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steevedim" height="30" width="40" /></a>
+<p align="center">
+  🚀 Performance • ⚙️ Low-level • 💻 Clean architecture
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="500"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-sdn&show_icons=true&locale=en&layout=compact" alt="coding-sdn" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-sdn&show_icons=true&locale=en" alt="coding-sdn" /></p>
+## 🧑‍💻 About Me
+- 🔭 Building **high-performance backend systems**
+- 🌱 Learning **advanced Python & system design**
+- 💡 Focused on **efficiency, memory, and scalability**
+- ⚡ Fun fact: I play **Fortnite**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-sdn&" alt="coding-sdn" /></p>
+---
+
+## ⚙️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,git,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=steeve-pix&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve-pix&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=steeve-pix&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Core Focus
+- Backend systems
+- APIs & architecture
+- Performance optimization
+- Low-level programming
+
+---
+
+## 🏆 Goals
+- Master **C++ & system-level programming**
+- Build scalable backend infrastructure
+- Contribute to open source
+
+---
+
+## 🔥 Projects
+👉 https://github.com/steeve-pix
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/VeSrMvCeMzYAAAAM/rubiks-cube-light.gif" width="400"/>
+</p>
+
+<p align="center">
+  💻 “Code. Optimize. Repeat.”
+</p>
