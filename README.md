@@ -21,22 +21,24 @@
 
 ## ⚙️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,git,linux" />
+</p>
+
+## 🧰 IDEs & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=clion,pycharm,idea,rider" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steeve-pix&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=steeve-pix&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve-pix&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve-pix&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=steeve-pix&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=steeve-pix&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
