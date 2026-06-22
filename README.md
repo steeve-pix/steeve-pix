@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/VeSrMvCeMzYAAAAM/rubiks-cube-light.gif" width="400"/>
+  <img src="https://media.tenor.com/VeSrMvCeMzYAAAAM/rubiks-cube-light.gif" width="200"/>
 </p>
 
 <p align="center">
