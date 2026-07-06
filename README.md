@@ -55,15 +55,6 @@
 
 ---
 
-## 🔥 Projects
-👉 [REPOS](https://github.com/steeve-pix?tab=repositories)
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/VeSrMvCeMzYAAAAM/rubiks-cube-light.gif" width="200"/>
-</p>
-
 <p align="center">
   💻 “Code. Optimize. Repeat.”
 </p>
