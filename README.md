@@ -2,16 +2,16 @@
 <h3 align="center">Backend & Systems Developer • Canada 🇨🇦</h3>
 
 <p align="center">
-  🚀 Performance • ⚙️ Low-level • 💻 Clean architecture
+  Experienced backend and systems engineer focused on building high-performance, reliable services. I prioritize efficient algorithms, resource-conscious design, and clean architecture.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Building **high-performance backend systems**
-- 🌱 Learning **advanced Python & system design**
-- 💡 Focused on **efficiency, memory, and scalability**
-- ⚡ Fun fact: I play **Fortnite**
+- 🔭 I build and optimize **high-performance backend systems** for reliability and scale.
+- 🌱 Currently deepening expertise in **advanced Python, C++, and system design**.
+- 💡 I emphasize **efficiency, memory management, observability, and maintainable architecture**.
+- ⚡ Fun fact: I play **Fortnite**.
 
 ---
 
@@ -28,17 +28,18 @@
 ---
 
 ## 🧠 Core Focus
-- Backend systems
-- APIs & architecture
-- Performance optimization
-- Low-level programming
+- Backend systems and service reliability
+- APIs, clean architecture, and design patterns
+- Performance optimization and low-level programming
+- Observability, testing, and maintainability
 
 ---
 
 ## 🏆 Goals
-- Master **C++ & system-level programming**
-- Build scalable backend infrastructure
-- Contribute to open source
+- Master **C++** and system-level programming practices
+- Design and build scalable backend infrastructure
+- Contribute consistently to open source projects
+- Collaborate with teams to deliver high-quality systems
 
 ---
 
