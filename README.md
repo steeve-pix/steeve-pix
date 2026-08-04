@@ -1,71 +1,47 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Steeve</h1>
+<h3 align="center">Backend & Systems Developer • Canada 🇨🇦</h3>
 
-# Steeve
-
-### Backend & Systems Developer
-
-Designing efficient, scalable, and maintainable software with a focus on backend engineering, systems programming, and software architecture.
-
-</div>
+<p align="center">
+  🚀 Performance • ⚙️ Low-level • 💻 Clean architecture
+</p>
 
 ---
 
-## About
-
-I am a software developer with a strong interest in backend engineering, systems programming, and performance optimization. I enjoy designing software that is reliable, efficient, and maintainable, with an emphasis on modern software engineering practices.
-
-My current focus is expanding my expertise in modern C++, Python, operating systems, and scalable backend systems.
-
----
-
-## Technical Skills
-
-### Languages
-
-- C++
-- C#
-- Java
-- Python
-
-### Technologies
-
-- Linux
-- Git
-- REST APIs
-- Object-Oriented Programming
-- System Design
-
-### Development Environment
-
-- CLion
-- IntelliJ IDEA
-- PyCharm
-- Rider
+## 🧑‍💻 About Me
+- 🔭 Building **high-performance backend systems**
+- 🌱 Learning **advanced Python & system design**
+- 💡 Focused on **efficiency, memory, and scalability**
+- ⚡ Fun fact: I play **Fortnite**
 
 ---
 
-## Areas of Interest
+## ⚙️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,git,linux" />
+</p>
 
-- Backend Engineering
-- Systems Programming
-- Performance Optimization
-- Software Architecture
-- Concurrent Programming
-- Memory Management
-
----
-
-## Current Goals
-
-- Advance my expertise in modern C++ and systems programming.
-- Build scalable and high-performance backend services.
-- Contribute to open-source software.
-- Continue improving software architecture and engineering practices.
+## 🧰 IDEs & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=clion,pycharm,idea,rider" />
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Core Focus
+- Backend systems
+- APIs & architecture
+- Performance optimization
+- Low-level programming
 
-> *"Build software that is correct, efficient, and maintainable."*
+---
 
-</div>
+## 🏆 Goals
+- Master **C++ & system-level programming**
+- Build scalable backend infrastructure
+- Contribute to open source
+
+---
+
+<p align="center">
+  💻 “Code. Optimize. Repeat.”
+</p>
